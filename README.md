@@ -18,12 +18,12 @@ When you run `fire`, the script will:
 ### 🚀 One-Line Install (Recommended)
 Install directly from GitHub with a single command:
 ```bash
-curl -sSL https://raw.githubusercontent.com/uurtech/in-case-of-fire.sh/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/uurtech/in-case-of-fire/main/install.sh | bash
 ```
 
 *Or using wget:*
 ```bash
-wget -qO- https://raw.githubusercontent.com/uurtech/in-case-of-fire.sh/main/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/uurtech/in-case-of-fire/main/install.sh | bash
 ```
 
 ### Local Install
@@ -110,6 +110,15 @@ The script stores its configuration in `~/.fire_config`. You can manually edit t
 🔥 FIRE EMERGENCY PROTOCOL ACTIVATED 🔥
 ✅ 🚨 FIRE EMERGENCY PROTOCOL COMPLETED! 🚨
 ℹ️  All repositories have been processed. You can now safely leave the building! 🏃‍♂️💨
+```
+
+## 🚀 Ready to Use!
+
+The script is configured for the GitHub repository: `uurtech/in-case-of-fire`
+
+Just push your changes to GitHub and anyone can install with:
+```bash
+curl -sSL https://raw.githubusercontent.com/uurtech/in-case-of-fire/main/install.sh | bash
 ```
 
 ## 🤝 Contributing

@@ -28,8 +28,8 @@ print_info() {
 }
 
 # GitHub repository details
-GITHUB_USER="uurtech"  # Replace with your GitHub username
-REPO_NAME="in-case-of-fire.sh"  # Replace with your repository name
+GITHUB_USER="uurtech"
+REPO_NAME="in-case-of-fire"
 GITHUB_RAW_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/fire"
 
 # Function to download fire script from GitHub
