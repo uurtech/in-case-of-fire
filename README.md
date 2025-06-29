@@ -118,6 +118,5 @@ Feel free to submit issues and pull requests to improve this emergency tool!
 
 ## ⚠️ Disclaimer
 
-This script is meant for emergency situations. In normal circumstances, please follow proper git workflows with meaningful commit messages and proper branching strategies.
-
+IT THIS MESS UP ON YOUR CODE OR ANYTHING I WILL NOT GIVE A DAMN ABOUT IT... THIS IS AN OPENSOURCE FUN SCRIPT NOT YOU BACKUP PLAN!!!! 
 **Remember**: In case of fire, git commit, git push, leave building! 🔥🏃‍♂️💨 
